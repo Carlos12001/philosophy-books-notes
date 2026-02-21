@@ -1,5 +1,8 @@
 # Immanuel Kant (1723-1804)
 
+#philopher
+
+
 Kant le parecía increíble que nadie hubiera logrado demostrar la existencia de mundo exterior.
 
 La tesis empieza, para poder determinar algo de tiene que decir el cuándo y dónde, de ese objeto. **¿Cómo aplico esto a mi propia conciencia?**

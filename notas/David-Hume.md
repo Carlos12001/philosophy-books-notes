@@ -1,4 +1,7 @@
 # David Hume (1711-177)
+
+#philopher
+
 ## ¿Cuál fue la idea principal o el concepto más importante que este filósofo aportó?
 
 Que el resultado de una propocision logica, que viene de la repeticion de evento no es una verdad ni demostrativa (matematicas) o probable (un evento). Ya que si, si negamos la preposicion no es lo hace inlógico. 

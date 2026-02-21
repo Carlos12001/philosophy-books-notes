@@ -1,5 +1,8 @@
 # Jean-Jacques Rousseau (1712-1778)
 
+#philopher
+
+
 ## ¿Cuál fue la idea principal o el concepto más importante que este filósofo aportó?
 
 El ser humano es bueno por naturaleza es la sociedad o conocimiento quien lo corrompe. Dice desde el momento se obtiene la noción de propiedad privada (se cerca algo para estar dentro), es cuando el mas tiene (rico), hace que el menos tiene (pobre), comience ser egoísta. 

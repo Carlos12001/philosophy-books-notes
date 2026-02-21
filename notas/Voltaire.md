@@ -1,4 +1,7 @@
 # Voltaire (1694-1778)
+
+#philopher
+
 ## ¿Cuál fue la idea principal o el concepto más importante que este filósofo aportó?
 
 Primero No se pueden garantizar certezas absolutas, ya que la forma de acceder a ellas no existe forma definidas. Existe pocas cosas como pocas verdaderas necesarias como lógica o matemática. Segundo no hay ideas innatas

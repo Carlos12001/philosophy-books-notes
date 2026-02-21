@@ -1,5 +1,7 @@
 # Adam Smith (1723-1790)
 
+#philopher
+
 ## ## ¿Cuál fue la idea principal o el concepto más importante que este filósofo aportó?
 
 
