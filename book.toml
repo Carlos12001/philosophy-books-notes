@@ -1,8 +1,8 @@
 [book]
-title = "Template Notes"
-authors = ["Carlos12001"]
-src = "src"
-language = "en"
+title = "Notas de Filosofía [Philosophy Books Notes]"
+authors = ["Carlos Andrés Mata Calderón"]
+src = "notas"
+language = "es"
 
 [output.html.print]
 enable = true     # include support for printable output
