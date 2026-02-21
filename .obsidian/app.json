@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "tabSize": 2,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "vimMode": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
+}

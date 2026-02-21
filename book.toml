@@ -1,0 +1,12 @@
+[book]
+title = "Template Notes"
+authors = ["Carlos12001"]
+src = "src"
+language = "en"
+
+[output.html.print]
+enable = true     # include support for printable output
+page-break = true # insert page-break after chapter
+
+[output.html]
+mathjax-support = true

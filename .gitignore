@@ -1,0 +1,116 @@
+# =====================================================
+# Obsidian (portable vault setup)
+# =====================================================
+
+# Workspace / UI state (device-specific)
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/graph.json
+
+# Plugin runtime data
+.obsidian/plugins/*/data.json
+
+# Trash
+.trash/
+
+# =====================================================
+# Python
+# =====================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =====================================================
+# C / C++
+# =====================================================
+
+# Compiled objects
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+compile_commands.json
+
+# Autotools
+aclocal.m4
+autom4te.cache/
+m4/
+
+# =====================================================
+# Rust
+# =====================================================
+
+# Cargo build output
+target/
+
+# Cargo lockfile (keep for applications, ignore for libraries if desired)
+# Cargo.lock
+
+# Backup files
+**/*.rs.bk
+
+# mdBook
+book
+
+# =====================================================
+# OS / System files
+# =====================================================
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Android
+*.nomedia
+
+# =====================================================
+# Logs / Temp
+# =====================================================
+
+*.log
+*.tmp
+*.swp
+*.swo
